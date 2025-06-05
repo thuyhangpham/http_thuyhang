@@ -1,1 +1,1 @@
-
+![Dashboard for Purchase Invoices](https://github.com/thuyhangpham/http_thuyhang/blob/20d1c7e409871419533f6f42f714742fb3d96019/Cloud-based%20BI%20Solution%20for%20Purchasing%20Department/Visualization/Dashboard_Purchase%20Invoices.png)
