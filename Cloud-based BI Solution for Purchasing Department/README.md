@@ -18,11 +18,11 @@ My responsibilities included:
 ### Wide World Importers (WWI) database
 Includes schemas related to Purchasing, Warehouse, Application, and Sales, with key tables for Purchase Orders, Suppliers, Stock, Shipments, and Payments.
 ## Task List:
-[] Business Requirements Analysis (*procurement cost, supplier performance, stock quality*)
-[] ETL Development using Azure Data Factory
-[] Data Lake Design with Bronze → Silver → Gold tiers
-[] Data Modeling using Star Schema (*fact & dimension tables*)
-[] Dashboard Creation in Power BI (*Purchase Invoices, Purchase Orders, Vendor Analysis*)
-[] Data Governance & Security (*role-based access, audit log*)
-[] Pipeline Automation & Scheduling
-[] Insights Generation (*top suppliers, cost trends, lead times*)
+[ ] Business Requirements Analysis (*procurement cost, supplier performance, stock quality*)
+[ ] ETL Development using Azure Data Factory
+[ ] Data Lake Design with Bronze → Silver → Gold tiers
+[ ] Data Modeling using Star Schema (*fact & dimension tables*)
+[ ] Dashboard Creation in Power BI (*Purchase Invoices, Purchase Orders, Vendor Analysis*)
+[ ] Data Governance & Security (*role-based access, audit log*)
+[ ] Pipeline Automation & Scheduling
+[ ] Insights Generation (*top suppliers, cost trends, lead times*)
