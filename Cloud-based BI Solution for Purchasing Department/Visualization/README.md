@@ -1,5 +1,5 @@
 ## Interactive Dashboard Built in Power BI
-### Purchasing Department Dataset from WorldWideImposter
+
 As part of this project, I designed and built multiple **interactive dashboards** using **Power BI** to support data-driven decisions in the **Purchasing Department** of ***Wide World Importers (WWI)***. Below are the main dashboards included in the solution:
 ### 1.  Purchase Invoices Dashboard
 - **Purpose:** Provide a high-level overview of procurement performance and supplier spending.
