@@ -1,2 +1,2 @@
 # http_thuyhang
-welcome to my chanellllll
+Welcome to my personal portfolio!
